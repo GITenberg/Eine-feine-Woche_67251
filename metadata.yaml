@@ -1,0 +1,30 @@
+_repo: Eine-feine-Woche_67251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pistorius, Fritz
+    alias: Eule, Robert
+    birthdate: 1864
+    deathdate: 1932
+    gutenberg_agent_id: '54178'
+    url: http://www.gutenberg.org/2009/agents/54178
+    wikipedia: https://de.wikipedia.org/wiki/Robert_Eule
+description: ''
+gutenberg_issued: '2022-01-27'
+identifiers:
+  gutenberg: '67251'
+language: de
+pgterms:marc905: 20180520030743pistorius
+pgterms:marc906: '1916'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Trowitzsch & Sohn,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- GITenberg
+title: Eine feine Woche!
+url: http://www.gutenberg.org/ebooks/67251
