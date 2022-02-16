@@ -1,5 +1,8 @@
 _repo: Eine-feine-Woche_67251
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67251-h/images/cover.jpg
 creator:
   author:
     agent_name: Pistorius, Fritz
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54178
     wikipedia: https://de.wikipedia.org/wiki/Robert_Eule
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67251#Eine-feine-Woche
 gutenberg_issued: '2022-01-27'
 identifiers:
   gutenberg: '67251'
